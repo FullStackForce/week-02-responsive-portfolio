@@ -90,6 +90,7 @@ footer {
 }
 main {
   padding-top: 130px;
+  padding-bottom: 0;
 }
 .main-section {
   float: left;
